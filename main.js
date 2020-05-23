@@ -111,6 +111,6 @@ async function createSVG() {
 //Run function
 createSVG();
 
-//Reference: Choropleth(https://observablehq.com/@d3/choropleth) by Mike Bostock
-//Choropleth V5(https://bl.ocks.org/adamjanes/6cf85a4fd79e122695ebde7d41fe327f) by Adam Janes
+//Reference: https://observablehq.com/@d3/treemap by Mike Bostock
+// freeCodeCamp project reference
 //Florin Pop youtube video
